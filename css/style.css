@@ -1,7 +1,7 @@
 @font-face {
   font-family: "ChunkFive Ex";
-  src: url("ChunkFiveEx.woff2") format("woff2"),
-    url("ChunkFiveEx.woff") format("woff");
+  src: url("./font/ChunkFiveEx.woff2") format("woff2"),
+    url("./font/ChunkFiveEx.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
