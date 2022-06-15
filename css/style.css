@@ -9,6 +9,7 @@
 
 body {
   background-color: #000 !important;
+  text-rendering: geometricPrecision;
 }
 
 #img-top {
